@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/colorSecondaryText"
+        android:padding="30dp"
+        android:textStyle="bold"
+        android:fontFamily="cursive"
+        android:text="@string/this_is_the_home_page"
+        android:layout_marginLeft="36dp"
+        android:textSize="36sp"
+        android:layout_marginStart="36dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/hm"
+        android:padding="110dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="24dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:contentDescription="@string/desc" />
+</RelativeLayout>
