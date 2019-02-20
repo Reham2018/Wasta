@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wasta</string>
+    <string name="forgot_my_password">Forgot my password</string>
+    <string name="new_user">New user?</string>
+    <string name="sign_up"> Sign Up</string>
+    <string name="googlelogo">googleLogo</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="log_in">log in</string>
+    <string name="log_in_with_google">Log in with google</string>
+    <string name="log_in_with_facebook">Log in with facebook</string>
+</resources>
